@@ -1,0 +1,11 @@
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\bin\Debug\net8.0\LibGeometryFigure.deps.json
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\bin\Debug\net8.0\LibGeometryFigure.dll
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\bin\Debug\net8.0\LibGeometryFigure.pdb
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\obj\Debug\net8.0\LibGeometryFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\obj\Debug\net8.0\LibGeometryFigure.AssemblyInfoInputs.cache
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\obj\Debug\net8.0\LibGeometryFigure.AssemblyInfo.cs
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\obj\Debug\net8.0\LibGeometryFigure.csproj.CoreCompileInputs.cache
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\obj\Debug\net8.0\LibGeometryFigure.dll
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\obj\Debug\net8.0\refint\LibGeometryFigure.dll
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\obj\Debug\net8.0\LibGeometryFigure.pdb
+C:\Users\sergo\source\repos\csharp\Console2\LibGeometryFigure\LibGeometryFigure\obj\Debug\net8.0\ref\LibGeometryFigure.dll

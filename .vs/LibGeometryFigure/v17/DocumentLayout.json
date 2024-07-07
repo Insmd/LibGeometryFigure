@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{511A7522-E6A3-4A03-94C0-5BD0FC6FFB41}|TestFigureCalculator\\TestGeometryArea.csproj|c:\\users\\sergo\\source\\repos\\csharp\\console2\\libgeometryfigure\\testfigurecalculator\\testgeometryarea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{511A7522-E6A3-4A03-94C0-5BD0FC6FFB41}|TestFigureCalculator\\TestGeometryArea.csproj|solutionrelative:testfigurecalculator\\testgeometryarea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A7522-E6A3-4A03-94C0-5BD0FC6FFB41}|TestFigureCalculator\\TestGeometryArea.csproj|c:\\users\\sergo\\source\\repos\\csharp\\console2\\libgeometryfigure\\testfigurecalculator\\circletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A7522-E6A3-4A03-94C0-5BD0FC6FFB41}|TestFigureCalculator\\TestGeometryArea.csproj|solutionrelative:testfigurecalculator\\circletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B335A-17CD-4C7F-A03E-53C8C2482133}|LibGeometryFigure\\LibGeometryFigure.csproj|c:\\users\\sergo\\source\\repos\\csharp\\console2\\libgeometryfigure\\libgeometryfigure\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B335A-17CD-4C7F-A03E-53C8C2482133}|LibGeometryFigure\\LibGeometryFigure.csproj|solutionrelative:libgeometryfigure\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B335A-17CD-4C7F-A03E-53C8C2482133}|LibGeometryFigure\\LibGeometryFigure.csproj|c:\\users\\sergo\\source\\repos\\csharp\\console2\\libgeometryfigure\\libgeometryfigure\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B335A-17CD-4C7F-A03E-53C8C2482133}|LibGeometryFigure\\LibGeometryFigure.csproj|solutionrelative:libgeometryfigure\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B335A-17CD-4C7F-A03E-53C8C2482133}|LibGeometryFigure\\LibGeometryFigure.csproj|c:\\users\\sergo\\source\\repos\\csharp\\console2\\libgeometryfigure\\libgeometryfigure\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072B335A-17CD-4C7F-A03E-53C8C2482133}|LibGeometryFigure\\LibGeometryFigure.csproj|solutionrelative:libgeometryfigure\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511A7522-E6A3-4A03-94C0-5BD0FC6FFB41}|TestFigureCalculator\\TestGeometryArea.csproj|c:\\users\\sergo\\source\\repos\\csharp\\console2\\libgeometryfigure\\testfigurecalculator\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511A7522-E6A3-4A03-94C0-5BD0FC6FFB41}|TestFigureCalculator\\TestGeometryArea.csproj|solutionrelative:testfigurecalculator\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072B335A-17CD-4C7F-A03E-53C8C2482133}|LibGeometryFigure\\LibGeometryFigure.csproj|c:\\users\\sergo\\source\\repos\\csharp\\console2\\libgeometryfigure\\libgeometryfigure\\libgeometryfigure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{072B335A-17CD-4C7F-A03E-53C8C2482133}|LibGeometryFigure\\LibGeometryFigure.csproj|solutionrelative:libgeometryfigure\\libgeometryfigure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFigure.cs",
+              "DocumentMoniker": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\LibGeometryFigure\\IFigure.cs",
+              "RelativeDocumentMoniker": "LibGeometryFigure\\IFigure.cs",
+              "ToolTip": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\LibGeometryFigure\\IFigure.cs",
+              "RelativeToolTip": "LibGeometryFigure\\IFigure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:51:50.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TriangleTest.cs",
+              "DocumentMoniker": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\TestFigureCalculator\\TriangleTest.cs",
+              "RelativeDocumentMoniker": "TestFigureCalculator\\TriangleTest.cs",
+              "ToolTip": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\TestFigureCalculator\\TriangleTest.cs",
+              "RelativeToolTip": "TestFigureCalculator\\TriangleTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:00:49.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibGeometryFigure.csproj",
+              "DocumentMoniker": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\LibGeometryFigure\\LibGeometryFigure.csproj",
+              "RelativeDocumentMoniker": "LibGeometryFigure\\LibGeometryFigure.csproj",
+              "ToolTip": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\LibGeometryFigure\\LibGeometryFigure.csproj",
+              "RelativeToolTip": "LibGeometryFigure\\LibGeometryFigure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T09:58:34.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestGeometryArea.csproj",
+              "DocumentMoniker": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\TestFigureCalculator\\TestGeometryArea.csproj",
+              "RelativeDocumentMoniker": "TestFigureCalculator\\TestGeometryArea.csproj",
+              "ToolTip": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\TestFigureCalculator\\TestGeometryArea.csproj",
+              "RelativeToolTip": "TestFigureCalculator\\TestGeometryArea.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T14:04:55.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CircleTest.cs",
+              "DocumentMoniker": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\TestFigureCalculator\\CircleTest.cs",
+              "RelativeDocumentMoniker": "TestFigureCalculator\\CircleTest.cs",
+              "ToolTip": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\TestFigureCalculator\\CircleTest.cs",
+              "RelativeToolTip": "TestFigureCalculator\\CircleTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:03:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\LibGeometryFigure\\Circle.cs",
+              "RelativeDocumentMoniker": "LibGeometryFigure\\Circle.cs",
+              "ToolTip": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\LibGeometryFigure\\Circle.cs",
+              "RelativeToolTip": "LibGeometryFigure\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:05:50.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\LibGeometryFigure\\Triangle.cs",
+              "RelativeDocumentMoniker": "LibGeometryFigure\\Triangle.cs",
+              "ToolTip": "C:\\Users\\sergo\\source\\repos\\csharp\\Console2\\LibGeometryFigure\\LibGeometryFigure\\Triangle.cs",
+              "RelativeToolTip": "LibGeometryFigure\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:50:51.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
